@@ -1,6 +1,6 @@
-package letters;
+package LETTERS;
 import java.util.Scanner;
-public class patternLettersMOHESH {
+public class LETTERS {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enetr the number");
@@ -85,6 +85,7 @@ public class patternLettersMOHESH {
 
 
 // MOHESHWARAN
+// PATERN PROGRAM JAVA
 	
 	
 
